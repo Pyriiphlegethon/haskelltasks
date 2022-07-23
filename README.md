@@ -1,2 +1,2 @@
 # haskelltasks
-Task in haskell course
+Tasks in haskell course
